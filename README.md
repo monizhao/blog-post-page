@@ -1,4 +1,4 @@
-# blog-post-page 
+# Create a blog post page using HTML5 and CSS3
 
 Date: 2021-02-12 19:38
 
